@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Converter Horas",
+    "description": "Extensão para Converter Horas",
+    "author": "Lucas José Garcia",
+    "browser_action": {
+   	 "default_title": "Converter Horas",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icone.png"
+    }
+}
